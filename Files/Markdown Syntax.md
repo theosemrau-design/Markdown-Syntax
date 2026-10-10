@@ -795,20 +795,11 @@ $$
 
 ## Autolinks
 
-#42  
-^  
-|  
-Links to Pull Request or Issue 42
+[Link to Pull Request or Issue 42]
 
-@username  
-^  
-|  
-Links to Usernames account
+[Link to Userprofile](@theosemrau-design)
 
-9f7a1c4
-^  
-|  
-Links to commit hash 9f7a1c4
+[Link to Commit hash d99a749](d99a749)
 
 ## Footnotes
 
