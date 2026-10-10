@@ -795,7 +795,7 @@ $$
 
 ## Autolinks
 
-[Link to Pull Request or Issue 42]
+[Link to Pull Request or Issue 42](#42)
 
 [Link to Userprofile](@theosemrau-design)
 
